@@ -1,1 +1,0 @@
-# SQL_Project_on_Credit_Card_Transactions
